@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cajui",
+    "slug": "cajui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
