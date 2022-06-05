@@ -1,13 +1,3 @@
-import React from 'react';
-import { WebView } from 'react-native-webview';
+import App from './src/index';
 
-export default function App() {
-
-  const url = 'https://cajui.ifnmg.edu.br/cajui/login';
-  return (
-    <WebView
-      source={{ uri: url}}
-      style={{ marginTop: 40}}
-    />
-  );
-}
+export default App;
